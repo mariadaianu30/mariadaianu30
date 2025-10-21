@@ -9,7 +9,10 @@
 📫 Reach me at: mariadaianuiuliana1977@gmail.com
 
 ![Maria’s GitHub stats](https://github-readme-stats.vercel.app/api?username=mariadaianu30&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariadaianu30&layout=compact)
+
+![Maria's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mariadaianu30&theme=tokyo-night)
 
 
 > “Code the future you want to live in.” 💫
