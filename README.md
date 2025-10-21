@@ -14,11 +14,11 @@
 
 ![Maria's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mariadaianu30&theme=tokyo-night)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yourusername&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yourusername&theme=github_dark&utcOffset=3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariadaianu30&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariadaianu30&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mariadaianu30&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariadaianu30&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mariadaianu30&theme=github_dark&utcOffset=3)
 
 > “Code the future you want to live in.” 💫
 
